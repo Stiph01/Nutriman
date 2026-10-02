@@ -1,0 +1,53 @@
+{
+  "questions": [
+    {
+      "questionText": "¿Qué mineral es esencial para prevenir la anemia y fortalecer la sangre?",
+      "options": ["Hierro", "Calcio", "Sodio"],
+      "correctIndex": 0,
+      "difficulty": "Easy",
+      "category": "Hierro"
+    },
+    {
+      "questionText": "¿Cuál de estas menestras aporta mayor cantidad de hierro vegetal?",
+      "options": ["Lentejas", "Arroz blanco", "Caramelos"],
+      "correctIndex": 0,
+      "difficulty": "Easy",
+      "category": "Alimentacion"
+    },
+    {
+      "questionText": "¿Qué vitamina ayuda a que el cuerpo absorba mejor el hierro de las menestras?",
+      "options": ["Vitamina C", "Vitamina D", "Vitamina E"],
+      "correctIndex": 0,
+      "difficulty": "Easy",
+      "category": "Nutrición"
+    },
+    {
+      "questionText": "¿Con qué bebida conviene acompañar las lentejas para aprovechar su hierro?",
+      "options": ["Limonada o camu camu", "Café caliente", "Té negro helado"],
+      "correctIndex": 0,
+      "difficulty": "Medium",
+      "category": "Alimentacion"
+    },
+    {
+      "questionText": "¿Por qué el hierro de origen animal (Hem) es distinto al vegetal (No Hem)?",
+      "options": ["Se absorbe mucho más fácil", "No aporta energía", "Contiene más azúcar"],
+      "correctIndex": 0,
+      "difficulty": "Medium",
+      "category": "Nutrición"
+    },
+    {
+      "questionText": "¿Qué compuestos del té e infusiones bloquean la absorción intestinal del hierro?",
+      "options": ["Taninos y polifenoles", "Ácido ascórbico", "Glucosa"],
+      "correctIndex": 0,
+      "difficulty": "Hard",
+      "category": "Anemia"
+    },
+    {
+      "questionText": "¿Qué antinutriente de las legumbres reduce el hierro y disminuye al remojarlas?",
+      "options": ["Fitatos", "Sacarosa", "Lactosa"],
+      "correctIndex": 0,
+      "difficulty": "Hard",
+      "category": "Anemia"
+    }
+  ]
+}
